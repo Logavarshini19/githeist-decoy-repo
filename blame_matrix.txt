@@ -1,0 +1,7 @@
+Potential Suspects (Unverified – Draft Only):
+- Rizvi (Email conflict)
+- Vishal (USB log anomaly)
+- Thejas (Badge entry inconsistency)
+- Abbilaash (Corrupted commit)
+
+Note: Draft analysis only. None of the above should be considered conclusive.
